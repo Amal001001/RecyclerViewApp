@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecyclerViewApp</string>
+    <string name="choose_a_color">Choose a Color:</string>
+    <string name="textview">TextView</string>
+    <string name="enter_new_color" />
+    <string name="add_color" />
+
+
+</resources>
